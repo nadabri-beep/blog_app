@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Premier article",
+    "content": "Ceci est le contenu du premier article.",
+    "author": "Nada",
+    "date": "2025-08-10T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Deuxième article",
+    "content": "Un autre post avec plus de détails.",
+    "author": "Admin",
+    "date": "2025-08-11T12:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Troisième article",
+    "content": "On teste ici la structure des objets.",
+    "author": "Tester",
+    "date": "2025-08-12T15:45:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Sécurité Web",
+    "content": "Les attaques XSS exploitent des failles de validation d’entrée.",
+    "author": "Alice",
+    "date": "2025-08-13T18:20:00Z"
+  },
+  {
+    "id": 5,
+    "title": "SQL Injection",
+    "content": "Une attaque qui permet d’injecter du SQL malveillant dans une requête.",
+    "author": "Bob",
+    "date": "2025-08-14T09:00:00Z"
+  }
+]
